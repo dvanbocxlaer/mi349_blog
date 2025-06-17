@@ -37,7 +37,7 @@ p {
 
 section:nth-of-type(1){ 
     display: flex;
-    flex-wrap: wrap;
+    flex-wrap: nowrap;
 }
 
 article {
