@@ -28,8 +28,7 @@ h1 {
 }
 
 h2 {
-    position: absolute;
-    padding: 40px;
+    flex-basis: 100%
 }
 
 p {
