@@ -29,7 +29,7 @@ h1 {
 
 h2 {
     flex: 0 0 100%;
-    flex-wrap: wrap
+    flex-wrap: wrap;
 }
 
 p {
