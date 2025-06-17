@@ -35,6 +35,11 @@ section {
     display: flex;
 }
 
+article {
+    padding: 20px;
+    margin: 20px;
+}
+
 table, th, td {
     border: 1px solid;
     border-color: #3d5a80;
