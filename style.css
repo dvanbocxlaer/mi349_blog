@@ -31,13 +31,21 @@ p {
     line-height: 1.4em;
 }
 
-section { 
+section:nth-of-type(1){ 
     display: flex;
 }
 
 article {
     padding: 20px;
     margin: 20px;
+}
+
+article:nth-of-type(1) {
+    
+}
+
+article:nth-of-type(2) {
+    
 }
 
 table, th, td {
