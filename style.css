@@ -81,7 +81,6 @@ form {
 
 label {
     padding: 15px;
-    flex: 1;
 }
 
 #blog {
@@ -93,3 +92,6 @@ label {
     padding: 15px;
 }
 
+a[href*="about"] {
+  background-color: #ee6c4d;
+}
