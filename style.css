@@ -79,6 +79,10 @@ form {
     display: flex;
 }
 
+label {
+    padding: 15px;
+}
+
 #blog {
     border-top: 1px dotted #3d5a80;
 }
